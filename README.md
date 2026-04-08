@@ -72,3 +72,50 @@ Create a `.env` file:
 
 ```env
 HF_TOKEN=your_huggingface_api_key
+
+## 📂 Project Structure
+```
+AI-Chatbot-Mentor/ │ 
+├── app.py 
+├── .env 
+├── requirements.txt 
+├── README.md
+```
+
+## ▶️ Run Locally
+
+- git clone https://github.com/your-username/MentorAI.git
+- cd MentorAI
+- pip install -r requirements.txt
+- streamlit run app.py
+
+## 📥 Chat Export Feature
+
+Users can download the entire conversation:
+
+- Includes both user & AI responses
+- Stored in .txt format
+- Useful for revision, notes, and documentation
+
+
+## 🎯 Use Cases
+- Self-learning and revision
+- Interview preparation
+- Concept clarification
+- Guided AI-assisted learning
+
+## 💡 Unique Value
+
+MentorAI solves a key problem in GenAI systems:
+
+- ❌ Generic Chatbots → Irrelevant Answers
+- ✅ MentorAI → Controlled, Domain-Specific Responses
+
+This makes it more reliable for education and structured learning.
+
+## ⭐ Future Enhancements
+
+- RAG-based knowledge integration
+- Voice-based interaction
+- Multi-language support
+- Progress tracking dashboard
