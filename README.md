@@ -4,6 +4,19 @@ AI Mentor is an AI-powered intelligent tutoring system designed to provide **foc
 
 Unlike general-purpose chatbots, MentorAI ensures that responses are **strictly restricted to the selected domain**, improving accuracy, reducing hallucinations, and enhancing learning efficiency.
 
+## 🌐 Live Demo
+
+Experience the application live:
+
+👉 https://ai-mentor-chatbot-agq9fd4oards7jvb7nyykc.streamlit.app/
+
+
+## 🎥 Video Demo
+
+Watch the full walkthrough of the project:
+
+👉 https://drive.google.com/file/d/19fVjb3Wo3X89zKbg3oY20o53Z_8edFvm/view?usp=sharing
+
 ---
 
 ## 🚀 Key Features
