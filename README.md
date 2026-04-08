@@ -85,15 +85,18 @@ Create a `.env` file:
 
 ```env
 HF_TOKEN=your_huggingface_api_key
+```
 
 ## 📂 Project Structure
-```
-AI-Chatbot-Mentor/ │ 
+
+````
+AI-Chatbot-Mentor/ 
+│ 
 ├── app.py 
 ├── .env 
 ├── requirements.txt 
 ├── README.md
-```
+````
 
 ## ▶️ Run Locally
 
