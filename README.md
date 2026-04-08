@@ -100,7 +100,7 @@ AI-Chatbot-Mentor/
 
 ## ▶️ Run Locally
 
-- git clone https://github.com/your-username/MentorAI.git
+- git clone https://github.com/maheshyarroju/AI-Mentor-Chatbot
 - cd MentorAI
 - pip install -r requirements.txt
 - streamlit run app.py
